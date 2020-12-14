@@ -1,0 +1,18 @@
+.padtop {
+	padding-top: 50px;
+	margin-left: 0px;
+}
+
+.contspecval {
+	color: red;
+}
+.add_spec{
+	position: absolute;
+	right:-10px;
+	font-size: 25px;
+	top: 0px;
+	background-color: darkgreen;
+    padding: 0px 5px 0px 6px;
+    color: white;
+}
+

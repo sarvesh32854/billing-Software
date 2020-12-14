@@ -1,0 +1,16 @@
+.catTable{
+	border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.pbtn{
+    margin-left: 83%;
+}
+.pdfbtn{
+    padding: inherit;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ .excelbtn{
+    padding: inherit;
+}
